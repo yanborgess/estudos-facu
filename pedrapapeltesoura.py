@@ -1,7 +1,7 @@
 contador_jogador1 = 0
 contador_jogador2 = 0
 
-while True:
+for i in range(3):
 
     print("=-=-=-=-=-= JOKEN PO =-=-=-=-=-=")
 
